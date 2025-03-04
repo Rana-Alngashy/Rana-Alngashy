@@ -1,4 +1,4 @@
-# 🌟 **Hi 👋, I'm Rana | AI & Data Science Enthusiast 🤖📊**
+# 🌟 **Hi 👋, I'm Rana | AI & ML Enthusiast 🤖📊**
 
 #### **📬 Connect with me:**  
 📧 **Email:** rana.k.alngashy@gmail.com  
