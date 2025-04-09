@@ -14,7 +14,7 @@ Hey there! 👋 I'm **Rana**, an Information Technology student passionate about
 ### 🎓 **Education**  
 🎓 **Bachelor of Information Technology**  
 🏫 **King Saud University**  
-📅 **Expected Graduation:** 2026 
+📅 **Expected Graduation:** 2027
 
 ---
 
