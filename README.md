@@ -20,19 +20,17 @@ Hey there! 👋 I'm **Rana**, an Information Technology student passionate about
 
 ### 💡 **Projects**  
 
-#### 🏟️ **Exploring Smart Stadium Crowd Monitoring**  
-🔍 Researching existing AI-powered solutions for analyzing and managing crowd density in stadiums using computer vision.  
-- **Technologies:** CSRNet, YOLOv7, Python, OpenCV  
-- **Focus:** Understanding real-time crowd detection, density estimation, and alert systems for overcrowding.  
+#### 🏟️ **🏟️ Smart Stadium Crowd Monitoring**  
+An AI-powered prototype that detects crowds, analyzes movement, and recommends the best gate to enter — helping improve fan experience and reduce congestion.
 
+- **Built with: YOLOv8, Optical Flow, Flask, OpenCV, Python
+- **Features: Crowd detection, movement tracking, heatmaps, predictions, and energy-efficient gate suggestions.
+- **Status: MVP complete — still learning and improving
+- 
 #### 🚗 **Accident Severity Classification**  
 🚦 Working on a data mining project that classifies accidents as **high, medium, or low severity** using data mining algorithms.  
 - **Technologies:** Python, Scikit-learn, Pandas  
 - **Key Features:** Data preprocessing, classification models, visualization of accident trends.  
-
-#### 🎥 **AI-Powered Surveillance System**  
-🔒 Building an intelligent surveillance system that **tracks and analyzes human movement** to enhance security measures.  
-- **Technologies:** Deep Learning, TensorFlow, YOLO, Flask**
 
 ---
 
