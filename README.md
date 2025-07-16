@@ -73,4 +73,4 @@ An AI-powered prototype that detects crowds, analyzes movement, and recommends t
 ---
 
 ✨ **Still learning and growing in the AI and data science space!** Open to discussions, collaborations, and new opportunities. 
-  -  Let’s connect!  
+    Let’s connect!  
