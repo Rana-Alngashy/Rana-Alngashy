@@ -40,12 +40,13 @@ An AI-powered prototype that detects crowds, analyzes movement, and recommends t
 
 ---
 
-### 🛠️ **Technical Skills**  
+### 🛠️ **Technical Skills** 
+
 💻 **Languages:** Python,Java,JavaScript, SQL 
+📊 **Data Science & AI:** TensorFlow, PyTorch, Scikit-learn 
 🛠️ **Developer Tools:** Git, Jupyter Notebook  
 📈 **Visualization:** Matplotlib, Seaborn  
 💻 **Web Structure & Styling Languages**: HTML, CSS    
-📊 **Data Science & AI:** TensorFlow, PyTorch, Scikit-learn 
 🎨 **UX/UI Design:** Figma, Adobe XD, User Research, Wireframing  
 
 
