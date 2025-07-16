@@ -23,9 +23,9 @@ Hey there! 👋 I'm **Rana**, an Information Technology student passionate about
 #### 🏟️ **🏟️ Smart Stadium Crowd Monitoring**  
 An AI-powered prototype that detects crowds, analyzes movement, and recommends the best gate to enter — helping improve fan experience and reduce congestion.
 
-- **Built with: YOLOv8, Optical Flow, Flask, OpenCV, Python
-- **Features: Crowd detection, movement tracking, heatmaps, predictions, and energy-efficient gate suggestions.
-- **Status: MVP complete — still learning and improving
+- **Built with:** YOLOv8, Optical Flow, Flask, OpenCV, Python
+- **Features:** Crowd detection, movement tracking, heatmaps, predictions, and energy-efficient gate suggestions.
+- **Status:** MVP complete — still learning and improving
 - 
 #### 🚗 **Accident Severity Classification**  
 🚦 Working on a data mining project that classifies accidents as **high, medium, or low severity** using data mining algorithms.  
@@ -49,6 +49,7 @@ An AI-powered prototype that detects crowds, analyzes movement, and recommends t
 💻 **Web Structure & Styling Languages**: HTML, CSS
 🎨 **UX/UI Design:** Figma, Adobe XD, User Research, Wireframing  
 
+
 ---
 
 ### 🏆 **Hackathons & Achievements**  
@@ -71,4 +72,4 @@ An AI-powered prototype that detects crowds, analyzes movement, and recommends t
 
 ---
 
-✨ **Still learning and growing in the AI and data science space!** Open to discussions, collaborations, and new opportunities. Let’s connect! 🚀  
+✨ **Still learning and growing in the AI and data science space!** Open to discussions, collaborations, and new opportunities. Let’s connect!  
