@@ -41,18 +41,18 @@ An AI-powered prototype that detects crowds, analyzes movement, and recommends t
 ---
 
 ### 🛠️ **Technical Skills**  
-💻 **Languages:** Python,Java,JavaScript, SQL
-📊 **Data Science & AI:** TensorFlow, PyTorch, Scikit-learn  
+💻 **Languages:** Python,Java,JavaScript, SQL 
 🛠️ **Developer Tools:** Git, Jupyter Notebook  
 📈 **Visualization:** Matplotlib, Seaborn  
 💻 **Web Structure & Styling Languages**: HTML, CSS    
+📊 **Data Science & AI:** TensorFlow, PyTorch, Scikit-learn 
 🎨 **UX/UI Design:** Figma, Adobe XD, User Research, Wireframing  
 
 
 ---
 
 ### 🏆 **Hackathons & Achievements**  
-🥈 **Sustainathon Winner** – Designed an innovative platform for fresh engineering graduates, integrating AR/VR and blockchain technologies to streamline project development and compliance with the Saudi Building Code. Won the second place among 300 competing teams, in TCS Sustainathon..  
+🥈 **Sustainathon Winner** – Designed an innovative platform for fresh engineering graduates, integrating AR/VR and blockchain technologies to streamline project development and compliance with the Saudi Building Code. Won the        second place among 300 competing teams, in TCS Sustainathon..  
 💡 **Participated in multiple hackathons**, solving challenges in AI, data science, and UX/UI design.  
 
 ---
